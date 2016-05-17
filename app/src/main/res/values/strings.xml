@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">simple contact app</string>
+    <string name="cancel" />
+    <string name="ok" />
+    <string-array name="options">
+        <item>All</item>
+        <item>Name</item>
+        <item>Phone</item>
+    </string-array>
+</resources>
